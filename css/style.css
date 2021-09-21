@@ -1,0 +1,156 @@
+.body {
+    font-family: Georgia;
+    font-size: 13px;
+    color: #222222;
+}
+
+.search {
+    float: right;
+    margin: 0.7% 0% 0.7% auto;
+    border-radius: 5%;
+    background-color: white;
+    color: #3355aa;
+    padding: 0.1% 2% 0.1% 2%;
+}
+
+.logo {
+    margin-left: 5%;
+    margin-top: 1%;
+    height: 45px;
+    margin-bottom: 1%;
+}
+
+.opt {
+    padding: 0.5% 1% 0.5% 1%;
+}
+
+#row1 {
+    margin: 35px 10px 45px 10px;
+}
+
+.menu {
+    background-color: #3355aa;
+    color: white;
+    font-style: italic;
+    padding-left: 5%;
+    padding-right: 5%;
+    align-items: center;
+    font-size: 15px;
+    height: 40px;
+}
+
+#card {
+    box-shadow: 1px 1px 1px 1px gray;
+    border-radius: 1%;
+    padding: 10px;
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+}
+
+#cardtext {
+    padding: 10px;
+    font-size: 14px;
+}
+
+#minicol {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+#heading {
+    color: #3355aa;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#headhr {
+    background-color: #ffdb0f;
+    height: 2px;
+}
+
+#foothr {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    background-color: #3d3d3d;
+}
+
+#comment {
+    font-style: italic;
+}
+
+#commenter {
+    font-size: 10px;
+    color: grey;
+}
+
+#more {
+    color: #3355aa;
+    font-style: italic;
+}
+
+#sect {
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#card2 {
+    box-shadow: 1px #bfbbae;
+    border-radius: 1%;
+    padding: 5px;
+    margin: auto 1% auto 1%;
+    font-size: 16px;
+    text-align: center;
+    color: #3355aa;
+    background-color: white;
+    align-items: stretch;
+}
+
+#card2 p {
+    height: 48px;
+}
+
+.box {
+    height: 250px;
+    width: auto;
+    background-color: #bfbbae;
+}
+
+.footer {
+    padding: 15px 45px 35px 45px;
+    background-color: #333333;
+    color: grey;
+    font-size: 11px;
+}
+
+.footopt {
+    font-size: 14px;
+    padding: 0% 0.5% 0% 0.5%;
+    float: left;
+}
+
+.footopt2 {
+    padding: 0% 0.5% 0% 0.5%;
+    float: right;
+}
+
+#home {
+    color: whitesmoke;
+}
+
+#footrow {
+    margin-bottom: 10px;
+}
+
+.col-sm-3 {
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.jumbotron {
+    padding-top: 25px;
+    margin-bottom: 0px;
+    padding-bottom: 75px;
+}
